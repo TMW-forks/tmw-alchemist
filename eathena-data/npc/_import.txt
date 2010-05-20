@@ -1,0 +1,1 @@
+import: npc/001/_import.txt
