@@ -1,0 +1,11 @@
+// 001
+
+//002-01.gat,46,57	warp	paraFora	3,-1,002.gat,100,69
+//002-01.gat,30,40	warp	QuartoFeminino	-1,2,002-02.gat,30,40
+//002-01.gat,63,40	warp	QuartoFeminino	-1,2,002-02.gat,63,40
+
+//002-01.gat,30,50	warp	QuartoMasculino	-1,2,002-03.gat,30,50
+//002-01.gat,63,50	warp	QuartoMasculino	-1,2,002-03.gat,63,50
+
+001.gat,50,50	warp	Para	-1,-1,001.gat,100,100
+
