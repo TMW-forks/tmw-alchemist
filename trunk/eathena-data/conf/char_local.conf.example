@@ -5,7 +5,7 @@ userid: s1
 passwd: p1
 
 // Server name, no more than 19 characters
-server_name: The Mana World BR
+server_name: TMW-Alchemist
 
 // Wisp name for server: used to send wisp from server to players (between 4 to 23 characters)
 wisp_server_name: Server
